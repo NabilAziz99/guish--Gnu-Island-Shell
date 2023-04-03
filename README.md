@@ -1,7 +1,7 @@
-README: Operating Systems - Project #1: guish (Gnu Island Shell)
-Project Overview
+README: Operating Systems - Project #1: guish (Gnu Island Shell) <br>
+Project Overview<br>
 This project implements a simple UNIX shell program called guish (Gnu Island Shell) as a part of the COSC 3346 Operating Systems course. The main objective of the project is to provide hands-on experience in system programming and system call interfaces while working with the UNIX environment. guish can execute simple Unix commands and supports internal shell commands such as exit, hist, and r n.
-Features
+Features <br>
 	•	Execute simple Unix commands or executable program file names with optional arguments: progname [args].
 	•	Exit the shell with the internal command exit.
 	•	Display the 10 most recent commands entered by the user with the internal command hist.
